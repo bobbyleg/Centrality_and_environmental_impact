@@ -6,6 +6,8 @@ Welcome to the GitHub page for the Common Pool Resource Games with Network-Based
 
 To come to a complete comprehension of common pool resource dynamics, we must first understand the information flows that drive users' incentives. This paper advances an agent-based model with boundedly rational common pool resource agents and information flows based on Barabasi-Albert networks. In the model, heterogeneity in the number of connections creates bistable resource equilibria, leading to an abundant and a scarce outcome. This result is driven by highly-connected users' influence on others' perceived network states. Allocating greater environmental weight to highly-connected individuals aligns their environmental impact and visibility, diminishing the difference between the abundant and scarce resource outcomes. These outcomes unite at the full-information equilibrium when highly-connected users are distributed sufficient environmental weight. Policymakers can leverage these findings regarding information asymmetries and the substantial influence of hub users to develop more informed approaches to CPR management in contexts such as food security and climate regulation. 
 
+The full paper and a complete description of the model can be found in the Paper folder. 
+
 ## Running the code
 
 The file that produces all the main plots is code_plots_paper.ipynb. The sensitivity analysis is performed through the sensitivity_analysis_paper.ipynb file. 
