@@ -8,7 +8,7 @@ To come to a complete comprehension of common pool resource dynamics, we must fi
 
 ## Running the code
 
-The file that produces all the main plots is ground_up.ipynb. The sensitivity analysis is performed through the sensitivity_analysis_paper.ipynb file. 
+The file that produces all the main plots is code_plots_paper.ipynb. The sensitivity analysis is performed through the sensitivity_analysis_paper.ipynb file. 
 
 ## Code requirements
 
